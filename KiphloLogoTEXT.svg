@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 79.167px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: "Yellowish Demo";
+      }
+    </style>
+  </defs>
+  <text id="Kiphlo" class="cls-1" transform="translate(246.328 265.243) rotate(-10.145) scale(1.614)"><tspan x="0">Kiphlo</tspan></text>
+</svg>
